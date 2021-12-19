@@ -12,7 +12,7 @@
 
     }
 </script>
-<h1>Guess Age</h1>
+<h1>Guess Gender</h1>
 
 <form on:submit|preventDefault={getAge}>
     <label for="name">Name:</label>
